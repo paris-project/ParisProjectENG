@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ParisProject - ENG-9/9/20",
-    "currentPage": "page6.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4608,7 +4608,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#1a0208\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-5\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/alien-dreams\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>ALIENS &nbsp; &nbsp;&nbsp;</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/desert\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>WORLD &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/one-hand-guitarrist-blues-band-dialogue-of-deaf\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>BLUES &nbsp; &nbsp;&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#1a0208\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-5\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/alien-dreams\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>ALIENS &nbsp; &nbsp;&nbsp;</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/desert\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>WORLD &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/one-hand-guitarrist-blues-band-dialogue-of-deaf\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>BLUES &nbsp; &nbsp;&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qSTanLndQ4",
           "_anchor": "content8-z",
           "_protectedParams": [],
